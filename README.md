@@ -63,3 +63,14 @@ The objective of this project was to create a robust and scalable ETL package th
 ## **Conclusion**
 This project demonstrates the use of SSIS for an efficient ETL process, integrating and transforming data from multiple sources while ensuring consistency and high performance. The project showcases advanced SSIS capabilities such as **joins**, **lookup transformations**, and **data type conversions**, making it a scalable and reliable solution for data integration.
 
+## **Team Members**
+Salma Essam Mohamed Hamad
+
+Gehad Emad Mohamed Mohamed
+
+Mirna Sherif Zayed
+
+Alaa Atef Mustafa
+
+Haneen Alaa
+
